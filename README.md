@@ -1,13 +1,19 @@
-#Reconstruction
+# Reconstruction
+  - Funding
+  - Supervisor
+  - Equipments
+  - 
 
-#Data Organization
+# Data Organization
   0. Experimental raw data
     a) Raman
+      - YYYYMMDD-Run-Spectra.csv
+      - ParametersX.txt
     b) SEM
     c)
-  1. Experimental processed data
-  2. Conclusions from data
-  3. Meetings
+  2. Experimental processed data
+  3. Conclusions from data
+  4. Meetings
 
 OrganizationReadme.txt
 #
