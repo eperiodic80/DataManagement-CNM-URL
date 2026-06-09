@@ -6,7 +6,7 @@
 
 # Data Organization
   0. Experimental raw data
-    a) Raman
+    1. Raman
       - YYYYMMDD-Run-Spectra.csv
       - ParametersX.txt
     b) SEM
