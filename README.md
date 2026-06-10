@@ -1,8 +1,8 @@
 # About my research
-- Name
-- Contact
-- Supervisor
-- Title
+- Name: Marck Anthony Alava Galarza
+- Contact: marck.alava@csic.es
+- Supervisor: Iñigo Martín Fernández
+- Title: Deterministic growth of ultra-long graphene nanorribbons
 - Description
 - Start-End Thesis
 - Project
@@ -32,7 +32,7 @@ Unkown; probably > 50 GB
 
 # 2. Data storage
 ## 2.1 Restrictions
-Check legal aspects (commercial, ethical, confidentiality...)
+[Pending Check legal aspects (commercial, ethical, confidentiality...)
 ## 2.2 Risks
 Unexpected deleiton 
 ## 2.3 Measures to overcome risks
@@ -51,6 +51,10 @@ Hierarchy of folders will be:
 4- Name as previously mentioned
 Folders will be classified by the data origin: Raman, SEM, TEM, Meetings, 
 ```
+## 3.2 Version control
+Name and date of file
+# 3.3 Metadata standards
+[Pending to check]
 # 4. Access, sharing and reusing data
 
 # 5. Repository
@@ -73,6 +77,3 @@ Folders will be classified by the data origin: Raman, SEM, TEM, Meetings,
   4. Conclusions from data
      - Reports
   6. Meetings
-
-OrganizationReadme.txt
-#
