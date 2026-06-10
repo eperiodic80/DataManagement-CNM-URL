@@ -55,25 +55,7 @@ Folders will be classified by the data origin: Raman, SEM, TEM, Meetings,
 Name and date of file
 # 3.3 Metadata standards
 [Pending to check]
+
 # 4. Access, sharing and reusing data
 
 # 5. Repository
-
-
-
-# Data Organization
-  0. Experimental raw data
-     - Raman
-     - ---YYYYMMDD-Run-Sample-Site
-     - ---ParametersX
-     - SEM
-     - ---YYYYMMDD-Run-Sample-Description
-     - TEM
-     - ---YYYYMMDD-Run-Sample-Description
-     - Confocal
-     - ---YYYYMMDD-Run-Sample-Description
-  2. Experimental processed data
-     - 
-  4. Conclusions from data
-     - Reports
-  6. Meetings
