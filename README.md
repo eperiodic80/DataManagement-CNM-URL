@@ -1,8 +1,61 @@
-# Reconstruction
-  - Funding
-  - Supervisor
-  - Equipments
-  - 
+# About my research
+- Name
+- Contact
+- Supervisor
+- Title
+- Description
+- Start-End Thesis
+- Project
+- Funding
+
+# About this Data Management Plan
+- Creation
+- Last update
+- Current version
+- Sensitive data (Y/N)
+  
+# 1. Data adquisition
+## 1.1 Would I use existing data?
+Group - Academic collaborators - Public database
+## 1.2 Data description
+- Protocols
+  Clean Room standard procedures
+- Equipments
+  Raman spectrometer Horiba ...
+  Scanning Electron Microscope ...
+- Softwares
+## 1.3 Type of data
+Measurements - Observations - Text - Images
+Format longevity: check open standards 
+## 1.4 Data volume
+Unkown; probably > 50 GB
+
+# 2. Data storage
+## 2.1 Restrictions
+Check legal aspects (commercial, ethical, confidentiality...)
+## 2.2 Risks
+Unexpected deleiton 
+## 2.3 Measures to overcome risks
+Periodic backups - Group hard drive
+## 2.4 Place of storage
+Group cloud - Local PC
+
+# 3. Data organization
+## 3.1 Name and structure
+```
+Files will have the following format: YYYYMMDD-RunID-SampleName-Site-AdditionalDescription
+Hierarchy of folders will be:
+1- Nature of data (Raw, Processed, Ready-to-publish...)
+2- Data adquisiton origin (Raman, SEM, TEM...)
+3- Folder for each sample
+4- Name as previously mentioned
+Folders will be classified by the data origin: Raman, SEM, TEM, Meetings, 
+```
+# 4. Access, sharing and reusing data
+
+# 5. Repository
+
+
 
 # Data Organization
   0. Experimental raw data
@@ -10,11 +63,16 @@
      - ---YYYYMMDD-Run-Sample-Site
      - ---ParametersX
      - SEM
+     - ---YYYYMMDD-Run-Sample-Description
      - TEM
+     - ---YYYYMMDD-Run-Sample-Description
      - Confocal
+     - ---YYYYMMDD-Run-Sample-Description
   2. Experimental processed data
-  3. Conclusions from data
-  4. Meetings
+     - 
+  4. Conclusions from data
+     - Reports
+  6. Meetings
 
 OrganizationReadme.txt
 #
