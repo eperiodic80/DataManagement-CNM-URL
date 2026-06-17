@@ -13,6 +13,7 @@
 - Last update
 - Current version
 - Sensitive data (Y/N)
+- CSIC Requirements: https://digital.csic.es/handle/10261/207866
   
 # 1. Data adquisition
 ## 1.1 Would I use existing data?
