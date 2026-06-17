@@ -5,8 +5,8 @@
 - Title: Deterministic growth of ultra-long graphene nanorribbons
 - Description
 - Start-End Thesis
-- Project
-- Funding
+- Project: GTRONICS
+- Funding: 
 
 # About this Data Management Plan
 - Creation
@@ -23,7 +23,8 @@ Group - Academic collaborators - Public database
   Clean Room standard procedures
 - Equipments
   Raman spectrometer Horiba ...
-  Scanning Electron Microscope ...
+  Scanning Electron Microscope JEOL ...
+  Portable computer from HP given by IMB-CNM, identifier ...
 - Softwares
 ## 1.3 Type of data
 Measurements - Observations - Text - Images
